@@ -17,6 +17,11 @@ Thank you for considering contributing to this project!
 - Follow existing code conventions
 - Add comments where necessary
 
+## Testing
+
+- Run tests before submitting: `php artisan test`
+- Ensure all tests pass
+
 ## Questions?
 
 Feel free to open an issue for any questions!
