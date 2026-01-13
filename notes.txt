@@ -1,0 +1,2 @@
+This is a test file to demonstrate git diff.
+We will make changes to this file.
