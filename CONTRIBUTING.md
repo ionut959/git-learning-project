@@ -17,6 +17,22 @@ Thank you for considering contributing to this project!
 - Follow existing code conventions
 - Add comments where necessary
 
+## Commit Message Format
+
+Use this format for commit messages:
+```
+type: brief description
+
+- Detailed explanation if needed
+```
+
+**Types:** `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`
+
+**Examples:**
+- `feat: add user authentication`
+- `fix: resolve database connection issue`
+- `docs: update README with setup instructions`
+
 ## Testing
 
 - Run tests before submitting: `php artisan test`
