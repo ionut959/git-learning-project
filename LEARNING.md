@@ -12,4 +12,5 @@
 - Learn about branches
 - Connect to GitHub
 - Push and pull changes
--Learned about remote repositories push/pull
+- Learned about remote repositories push/pull
+- Understanding merge conflicts (LOCAL CHANGE)
