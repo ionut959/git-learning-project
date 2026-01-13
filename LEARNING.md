@@ -12,3 +12,4 @@
 - Learn about branches
 - Connect to GitHub
 - Push and pull changes
+-Learned about remote repositories push/pull
