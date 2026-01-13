@@ -14,3 +14,4 @@
 - Push and pull changes
 - Learned about remote repositories push/pull
 - Understanding merge conflicts (LOCAL CHANGE)
+- Understanding merge conflicts (GITHUB CHANGE)
